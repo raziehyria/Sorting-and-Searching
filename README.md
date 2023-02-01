@@ -1,6 +1,8 @@
 # Sorting-and-Searching
-Linear, binary search + selection, insertion, bubble and merge sort on randomly generayed 50k or 10k long, integer holding lists + time analysis
+Linear, binary search and selection, insertion, bubble and merge sort on randomly generayed 50k or 10k long, integer holding lists with a time analysis
+
 CMPSC-462 –Data Structures and Algorithms
+PSU Abingtong
 PROJECT-2
 
 # Goal
